@@ -1,0 +1,21 @@
+.square {
+    background-color: aqua;
+    height: 30px;
+    width: 30px;
+    margin: 1px;  
+}
+
+.row {
+    display: flex;
+}
+
+#container {
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
