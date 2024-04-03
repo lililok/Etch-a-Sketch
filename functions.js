@@ -1,5 +1,6 @@
 const container = document.getElementById("container");
-let row, square;
+const prompt = document.getElementById("prompt");
+const MAX = 100;
 
 for (let i = 0; i < 16; i++) {
     const row = document.createElement("div");
