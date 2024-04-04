@@ -2,7 +2,6 @@
     background-color: aqua;
     height: 30px;
     width: 30px;
-    margin: 1px;  
 }
 
 .row {
@@ -10,6 +9,7 @@
 }
 
 #container {
+    border: 5px solid #6c2e79; 
 }
 
 body {
@@ -20,4 +20,12 @@ body {
     gap: 50px;
     height: 100vh;
     margin: 0;
+    background-color: #4c2155;
+}
+
+button {
+    background-color: #bc96c4;
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
 }
